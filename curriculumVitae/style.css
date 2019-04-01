@@ -1,0 +1,71 @@
+
+@import url('https://fonts.googleapis.com/css?family=Poppins');
+body{
+	background-color:#fff3e0;
+	padding: 5px;
+}
+hr{
+	border: 0; 
+  height: 1px; 
+  background-image: -webkit-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0);
+  background-image: -moz-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0);
+  background-image: -ms-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0);
+  background-image: -o-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0); 
+}
+figure{
+	text-align:center;
+}
+.photo{
+	height:256px;
+}
+.photo{
+	border: inset 5px #880e4f;
+}
+header{
+	color: ##fce4ec;
+	font-family: 'Poppins', sans-serif;
+}
+a{
+	text-decoration: none;
+	color: #333;
+	font-family: 'Poppins', sans-serif;
+}
+a:hover{
+	background-color:#f8bbd0;
+}
+div{
+	text-align:center;
+	color: ##fce4ec;
+	font-family: 'Poppins', sans-serif;
+}
+main{
+	color: ##fce4ec;
+	font-family: 'Poppins', sans-serif;
+}
+h1, h2, h4{
+	color:#880e4f;
+	text-align: center;
+}
+li{
+	color: #333;
+	list-style-type: circle;
+}
+span{
+	padding:0 15px; /*0 determina el valor de top y bottom y 15 el de left y right*/
+}
+.mail{
+	color: #333;
+	font-family: 'Poppins', sans-serif;
+}
+.mail:hover{
+	background-color:#f8bbd0;
+}
+/*.logo{
+	height: 100px;
+redimensiona las imagenes*/
+footer{
+	color: #333;
+	font-family: 'Poppins', sans-serif;
+	text-align: center;
+	font-size: 15px;
+}
